@@ -1,2 +1,0 @@
-# DayBuddy uses only the Python standard library (tkinter).
-# No pip packages are required.
